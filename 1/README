@@ -1,0 +1,23 @@
+###gitlab
+新建文件夹gitlab
+cd gitlab
+git init
+git clone ssh://git@code.fffff.com:20021/imageteam/teamshare.git
+cd teamshare/
+git add .
+git commit -m "添加日报"
+git remote set-url --push  origin ssh://git@code.fffff.com:20021/zhuang/teamshare.git
+git push origin master
+
+拉取
+git pull origin master
+
+
+####github
+cd TEST
+git add .
+git status查看状态，可不执行
+git commit -m "创建README.txt"
+git push origin master
+输入用户名ZHUANG-JLU
+输入密码
