@@ -1,0 +1,15 @@
+qq
+# 请为您的变更输入提交说明。以 '#' 开始的行将被忽略，而一个空的提交
+# 说明将会终止提交。
+# 位于分支 master
+# 您的分支与上游分支 'origin/master' 一致。
+#
+# 要提交的变更：
+#	删除：     2.txt
+#	删除：     InsightFace_Pytorch
+#	删除：     facenet
+#	删除：     tensorflow-yolo-v3
+#	删除：     zhuang/delete_nobbox_2012.py
+#	删除：     zhuang/show_voc_imgbbox.py
+#	删除：     zhuang/yolo_focal_loss_model.py
+#
